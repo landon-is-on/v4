@@ -31,6 +31,7 @@ const StyledLoader = styled.div`
       user-select: none;
       #B {
         opacity: 0;
+       
       }
     }
   }

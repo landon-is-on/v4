@@ -28,6 +28,8 @@ const StyledHeroSection = styled.section`
     }
   }
 
+
+
   h3 {
     margin-top: 10px;
     color: var(--slate);

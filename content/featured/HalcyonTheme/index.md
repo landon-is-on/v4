@@ -5,11 +5,10 @@ cover: './React App.png'
 github: 'https://github.com/landon-is-on/react-website'
 external: 'https://nostalgic-archimedes-4f0024.netlify.app/'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - React
+  - Styled Components
+  - 
+  - 
 ---
 
-A React landing page made for adventureing and travling 
+Why wait inside when adventure awaits! this landing page application is made with a simple but elegant design to insure the user will have a great experience.

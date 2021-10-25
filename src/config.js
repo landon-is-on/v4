@@ -6,22 +6,13 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/landon-is-on',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
+
+
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/landon-smothers-a11767202/',
     },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
+
   ],
 
   navLinks: [
@@ -29,10 +20,7 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    {
-      name: 'Experience',
-      url: '/#jobs',
-    },
+
     {
       name: 'Work',
       url: '/#projects',
