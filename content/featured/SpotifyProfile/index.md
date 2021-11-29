@@ -1,13 +1,16 @@
 ---
 date: '2'
-title: 'Coding academy'
-cover: './code-acadamy.png'
-github: 'https://github.com/landon-is-on/academy_website'
-external: 'https://objective-benz-eb777f.netlify.app/'
+title: 'Yelp-camp'
+cover: './Yelp-Camp-project.png'
+github: 'https://github.com/landon-is-on/yelp-camp-full-stack'
+external: ''
 tech:
   - HTML
   - CSS
   - JavaScript
+  - mongo
+  - mongoose
+  - ejs
 ---
 
-Eager to learn? this single-page application is made for young kids to start getting into the awesome world of coding.
+This is Yelp-camp, a full-stack project made to find and add campgrounds. Includes reviews, google maps, and more suttle features.
