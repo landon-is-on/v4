@@ -1,8 +1,8 @@
 ---
-date: '2018-12-29'
-title: 'ToyStore'
-github: 'https://github.com/landon-is-on/toy-store-website'
-external: 'https://dazzling-hoover-dc5326.netlify.app/'
+date: '2020-12-29'
+title: 'Adventure awaits'
+github: 'https://github.com/landon-is-on/react-website'
+external: 'https://nostalgic-archimedes-4f0024.netlify.app/'
 tech:
   - HTML
   - CSS
@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-Toy-store landing page made with smooth transitions and mobile-friendly.
+Multiple-page react adventure website made with reactRouter.

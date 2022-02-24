@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Yelp-camp'
+title: 'Yelp-Camp'
 cover: './Yelp-Camp-project.png'
 github: 'https://github.com/landon-is-on/yelp-camp-full-stack'
 external: ''

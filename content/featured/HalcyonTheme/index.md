@@ -1,14 +1,14 @@
 ---
 date: '1'
-title: 'Adventure aWaits'
-cover: './React App.png'
-github: 'https://github.com/landon-is-on/react-website'
-external: 'https://nostalgic-archimedes-4f0024.netlify.app/'
+title: 'Ready to Explore'
+cover: './Adventure.png'
+github: 'https://github.com/landon-is-on/my-app'
+external: 'https://optimistic-rosalind-ef2daa.netlify.app/home'
 tech:
   - React
   - Styled Components
-  - 
-  - 
+  - React Router
+  - React icons
 ---
 
-Why wait inside when adventure awaits! this landing page application is made with a simple but elegant design to insure the user will have a great experience.
+Why wait inside when you can explore! this multiple page application is made with a simple but elegant design to insure the user will have a great experience.
